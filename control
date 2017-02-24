@@ -1,0 +1,9 @@
+Package: com.syed.myHelloWorld
+Name: myHelloWorld
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Ishtiaq Ul Haq Syed
+Author: Ishtiaq Ul Haq Syed
+Section: Tweaks
